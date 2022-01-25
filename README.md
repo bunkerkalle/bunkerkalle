@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bunkerkalle
-- 👀 I’m interested in testing github pages
+- 👀 I’m interested in testing github pages, AWS, cloud services, unix administrator, agile workflow.
 - 🌱 I’m currently learning github pages, python, unix advanced skills
 - 💞️ I’m looking to collaborate on nothing I guess ;)
 - 📫 How to reach me ...
